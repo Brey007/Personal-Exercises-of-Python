@@ -28,9 +28,17 @@ Actualmente incluye:
 
 3. Ejecuta cualquier archivo `.py` de práctica:
    ```bash
-   python nombre_del_archivo.py
 
-   Ejemplo: python MundoPy.py (Deberia de ejecutarse luego de ese comando)
+   Si el archivo se encuentra dentro de una carpeta:
+
+   Ejecuta: "cd 'NombreDeLaCarpeta'"
+   y luego:
+
+   "python nombre_del_archivo.py"
+
+   Ejemplo: "python MundoPy.py" (Deberia de ejecutarse luego de ese comando)
+
+   "cd .." para salir de la carpeta.
    ```
 
 ## 🎯 Objetivo
