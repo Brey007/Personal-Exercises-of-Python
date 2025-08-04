@@ -1,4 +1,3 @@
-print ('\nBIENVENIDOS A MIS PRACTICAS')
 print ('\nVariables y operaciones numericas:')
 
 #PD: '\n' Hace que lo que se imprime salte una linea.
