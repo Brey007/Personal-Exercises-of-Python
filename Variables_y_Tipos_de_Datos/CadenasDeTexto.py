@@ -48,3 +48,11 @@ print (mensaje.strip()) # "Jugo de Maracuya con Leche" (quita espacios externos)
 print (mensaje.replace('Maracuya', 'Mora')) # Jugo de Mora con Leche
 
 print (len(mensaje)) # 26 (cuenta los caracteres, tambien los espacios)
+
+# 
+
+edad = 22
+
+print ('\nMetodo format')
+
+print("Me llamo {} y tengo {} años".format(nombre, edad))
