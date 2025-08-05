@@ -35,3 +35,16 @@ print (f'Tu nombre es {name}')
 
 #
 
+print ("\nAlgunos metodos utiles para los str:")
+
+mensaje= 'Jugo de Maracuya con Leche'
+
+print (mensaje.lower()) # jugo de maracuya con leche
+
+print (mensaje.upper()) # JUGO DE MARACUYA CON LECHE
+
+print (mensaje.strip()) # "Jugo de Maracuya con Leche" (quita espacios externos)
+
+print (mensaje.replace('Maracuya', 'Mora')) # Jugo de Mora con Leche
+
+print (len(mensaje)) # 26 (cuenta los caracteres, tambien los espacios)
