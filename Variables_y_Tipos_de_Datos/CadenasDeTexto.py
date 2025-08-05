@@ -1,8 +1,17 @@
 print ('\n Cadenas de Texto')
 
+print ("\nConcatenar: ")
+
 nombre = "Pedro"
 saludos = ('Hola,'+ nombre)
 
-print ("\nConcatenar: ")
+print (saludos) # imprime: Hola, Pedro
 
-print (saludos)
+#
+
+print ("\nRepetir")
+
+print ("ja" * 3) # imprime: jajaja
+
+#
+
